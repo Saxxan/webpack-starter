@@ -1,3 +1,3 @@
-import { sayHi } from './utils/notifier';
+import { renderList } from './features/list';
 
-sayHi('Maria');
+renderList();

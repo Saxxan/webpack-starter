@@ -5,4 +5,10 @@
 html, body {
     margin: 0;
     padding: 0;
+    font-family: sans-serif;
+}
+
+.fruit {
+    padding: 8px;
+    border-top: 1px solid #e1e1e1;
 }
